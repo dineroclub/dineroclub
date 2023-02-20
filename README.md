@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dineroclub (Alvaro Abril)
-- 👀 I’m interested in React, Livecode
+- 👀 I’m interested in React, Flutter, Angular Livecode
 - 🌱 I’m currently learning about Artificial Intelligence
 - 💞️ I’m looking to collaborate on Software development
 - 📫 My corporate email alvaro@abril.pro
