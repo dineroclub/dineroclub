@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, Livecode
 - 🌱 I’m currently learning about Artificial Intelligence
 - 💞️ I’m looking to collaborate on Software development
-- 📫 My corporate email presidencia@dineroclub.com
+- 📫 My corporate email alvaro@abril.pro
 
 <!---
 dineroclub/dineroclub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
